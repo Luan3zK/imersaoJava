@@ -25,8 +25,8 @@
 ## About
 Essa repo irá conter o que eu fizer durante as aulas da imersão dev da Alura de Java/Backend
 
-Na Aula 1:
-Utilizamos uma API(imdb-api.com) para pegar os tops 250 filmes.
+Na Aula 1: Utilizamos uma API(imdb-api.com) para pegar os tops 250 filmes.
+Na Aula 2: Temos um criador de stickers com um textinho abaixo da imagem baseado na API da aula 1
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Java-05122A?style=flat&logo=java" alt="java Badge" height="25">&nbsp;
