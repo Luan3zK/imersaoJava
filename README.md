@@ -27,6 +27,7 @@ Essa repo irá conter o que eu fizer durante as aulas da imersão dev da Alura d
 
 <p>Na Aula 1: Utilizamos uma API(imdb-api.com) para pegar os tops 250 filmes.</p>
 <p>Na Aula 2: Temos um criador de stickers com um textinho abaixo da imagem baseado na API da aula 1</p>
+<img src="https://user-images.githubusercontent.com/107517953/180312357-b00c6710-1585-4774-9def-c03cea0f5b74.png" alt="Batman: The dark Knight poster mais texto embaixo da imagem, poderosa imagem" height=250>
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Java-05122A?style=flat&logo=java" alt="java Badge" height="25">&nbsp;
