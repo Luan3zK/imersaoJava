@@ -30,6 +30,8 @@ Essa repo irá conter o que eu fizer durante as aulas da imersão dev da Alura d
 <img src="https://user-images.githubusercontent.com/107517953/180312357-b00c6710-1585-4774-9def-c03cea0f5b74.png" alt="Batman: The dark Knight poster mais texto embaixo da imagem, poderosa imagem" height=250>
 <p>Aula 3: Refatoração de código, introduzindo interface e "extratores" e utilização da API da NASA APOD</p>
 <img src="https://user-images.githubusercontent.com/107517953/180313660-6774b0e1-6741-4586-abb0-b289d9c89e63.png" alt="Homem com lua de background e texto embaixo, poderosa imagem" height="250">
+<p>Aula 4: criação de API de "rank" de linguagens usando o Spring, MongoDB e Maven</p>
+<img src="https://user-images.githubusercontent.com/107517953/180571976-3d884a82-a7e2-4729-872a-b90799f8ce40.png" alt="javascript com texto abaixo, naisse" height="250">
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Java-05122A?style=flat&logo=java" alt="java Badge" height="25">&nbsp;
